@@ -7,7 +7,7 @@ O primeiro trabalho é implementado em Java, enquanto o segundo em C++.
 
 ## [Trabalho 1](./Trabalho-1-Java)
 
-### Nota - 9.5
+### Pontuação - 9.5
 
 ### Ferramentas utilizadas
 
@@ -38,7 +38,7 @@ O primeiro trabalho é implementado em Java, enquanto o segundo em C++.
 
 ## [Trabalho 2](./trabalho-2)
 
-### Nota - 9.75
+### Pontuação - 9.75
 
 ### Ferramentas utilizadas
 
