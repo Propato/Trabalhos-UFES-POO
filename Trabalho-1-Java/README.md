@@ -6,7 +6,7 @@ Este é o primeira trabalho da matéria e consiste em implementar um sistema em 
 
 Através da linha de comando, quando se executo o programa são passados os endereços de arquivos de entrada que contém as informações dos candidatos e partidos de onde se extrairá e processará os dados, bem como a data da eleição.
 
-### Ferramentas utilizadas
+## Ferramentas utilizadas
 
 <table>
     <tr align="center">
