@@ -5,11 +5,11 @@ Aqui estão as pastas contendo os trabalhos 1 e 2 desenvolvido por <a href="http
 Ambos trabalhos consistem em implementar um sistema capaz de processar dados obtidos da Justiça Eleitoral referentes à votação de vereadores, de forma a levantar informações e gerar relatórios sobre as eleições de 2020 em um município, a fim de aplicar e desenvolver os conhecimentos adquiridos em aula. Porém, cada um em uma linguagem diferente.
 O primeiro trabalho é implementado em Java, enquanto o segundo em C++.
 
-### [Trabalho 1](./Trabalho-1-Java)
+## [Trabalho 1](./Trabalho-1-Java)
 
-##### Nota - 9.5
+### Nota - 9.5
 
-##### Ferramentas utilizadas
+### Ferramentas utilizadas
 
 <div style="display: inline_block">
     <table>
@@ -38,11 +38,11 @@ O primeiro trabalho é implementado em Java, enquanto o segundo em C++.
     </table>
 </div>
 
-### [Trabalho 2](./trabalho-2)
+## [Trabalho 2](./trabalho-2)
 
-##### Nota - 9.75
+### Nota - 9.75
 
-##### Ferramentas utilizadas
+### Ferramentas utilizadas
 
 <div style="display: inline_block">
     <table>
