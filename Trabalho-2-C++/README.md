@@ -6,6 +6,33 @@ Este é o segundo trabalho da disciplina e consiste em implementar um sistema em
 
 Através da linha de comando, quando se executo o programa são passados os endereços de arquivos de entrada que contém as informações dos candidatos e partidos de onde se extrairá e processará os dados, bem como a data da eleição.
 
+## Ferramentas utilizadas
+
+<table>
+    <tr align="center">
+        <td>
+            <img alt="Icone C++" title="C++" height="60" src="https://user-images.githubusercontent.com/84464307/226507356-adf7cb38-b2d5-48ea-b708-db7c8c35d58a.svg">
+        </td>
+        <td>    
+            <img alt="Icone GNU Makefile" title="GNU Makefile" height="60" src="https://user-images.githubusercontent.com/84464307/224509679-b957b786-f83a-403a-b088-7132a54bd024.svg">
+        </td>
+        <td>
+            <img alt="Icone Git" title="Git" height="60" src="https://user-images.githubusercontent.com/84464307/224510001-3e60f54c-2a0a-4ae9-bee6-f5b10df9ecf1.svg">
+        </td>
+    </tr>
+    <tr align="center">
+        <td>
+            C++
+        </td>
+        <td>    
+            GNU Makefile
+        </td>
+        <td>
+            Git
+        </td>
+    </tr>
+</table>
+
 ## Conteúdo
 
 - Os arquivos .cpp e .h de todas as classes e o Client.h.
@@ -26,9 +53,9 @@ Através da linha de comando, quando se executo o programa são passados os ende
 
 ## Nota - 9.75
 
-![File Structure](/assets/Cabeçalho-part1.png)
-![File Structure](/assets/Nota-part1.png)
-![File Structure](/assets/Cabeçalho-part2.png)
-![File Structure](/assets/Nota-part2.png)
+![File Structure](https://user-images.githubusercontent.com/84464307/226508055-28bee83c-eea2-46ea-adc9-2e18927171c2.png)
+![File Structure](https://user-images.githubusercontent.com/84464307/226508060-632cc929-820f-4a3c-aa2b-193a47170ba1.png)
+![File Structure](https://user-images.githubusercontent.com/84464307/226508067-98858c3c-5fb7-4920-b180-4ef0a1270bdb.png)
+![File Structure](https://user-images.githubusercontent.com/84464307/226508078-1d5f50c0-2680-4216-b63a-ea7edd0364cf.png)
 
-<h6 align="center"><font size="+2">by David Propato <a href="https://github.com/Propato">@Propato</a></font></h6>
+<h5 align="center">by David Propato <a href="https://github.com/Propato">@Propato</a></h5>
