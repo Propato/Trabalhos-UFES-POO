@@ -6,6 +6,33 @@ Este é o primeira trabalho da matéria e consiste em implementar um sistema em 
 
 Através da linha de comando, quando se executo o programa são passados os endereços de arquivos de entrada que contém as informações dos candidatos e partidos de onde se extrairá e processará os dados, bem como a data da eleição.
 
+### Ferramentas utilizadas
+
+<table>
+    <tr align="center">
+        <td>
+            <img alt="Icone Java" title="Java" height="60" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
+        </td>
+        <td>    
+            <img alt="Icone XML" title="XML" height="60" src="https://user-images.githubusercontent.com/84464307/226507055-926ee880-402d-4748-bb5a-ffda0feda9bd.svg">
+        </td>
+        <td>
+            <img alt="Icone Git" title="Git" height="60" src="https://user-images.githubusercontent.com/84464307/224510001-3e60f54c-2a0a-4ae9-bee6-f5b10df9ecf1.svg">
+        </td>
+    </tr>
+    <tr align="center">
+        <td>
+            Java
+        </td>
+        <td>    
+            XML
+        </td>
+        <td>
+            Git
+        </td>
+    </tr>
+</table>
+
 ## Conteúdo
 
 - Os arquivos .java de todas as classes.
@@ -26,9 +53,9 @@ Através da linha de comando, quando se executo o programa são passados os ende
 
 ## Nota - 9.5
 
-![File Structure](assets/Cabeçalho-part1.png)
-![File Structure](assets/Nota-part1.png)
-![File Structure](assets/Cabeçalho-part2.png)
-![File Structure](assets/Nota-part2.png)
+![File Structure](https://user-images.githubusercontent.com/84464307/226507811-a4f90fb6-dc1e-4dbb-8675-8332bab8b526.png)
+![File Structure](https://user-images.githubusercontent.com/84464307/226507850-a1fd7141-42b2-49c4-b487-b580b8699184.png)
+![File Structure](https://user-images.githubusercontent.com/84464307/226507857-12b242c5-e3c5-4cff-a1f0-7eeb3b62c2a8.png)
+![File Structure](https://user-images.githubusercontent.com/84464307/226507862-0e9ae213-2711-49b3-b056-f4737d2e49de.png)
 
-<h6 align="center"><font size="+2">by David Propato <a href="https://github.com/Propato">@Propato</a></font></h6>
+<h5 align="center">by David Propato <a href="https://github.com/Propato">@Propato</a></h5>
